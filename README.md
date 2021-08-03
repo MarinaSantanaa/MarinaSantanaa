@@ -1,4 +1,4 @@
-- 👋 Oii!! Eu sou Marina Santana
+
 <div>
   <a href="https://github.com/MarinaSantanaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSantanaa&layout=compact&langs_count=7&theme=dracula"/>
